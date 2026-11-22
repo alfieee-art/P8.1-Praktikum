@@ -1,0 +1,14 @@
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\bin\Debug\net10.0\UmlLabCode.exe
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\bin\Debug\net10.0\UmlLabCode.deps.json
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\bin\Debug\net10.0\UmlLabCode.runtimeconfig.json
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\bin\Debug\net10.0\UmlLabCode.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\bin\Debug\net10.0\UmlLabCode.pdb
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.AssemblyInfoInputs.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.AssemblyInfo.cs
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\refint\UmlLabCode.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.pdb
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\UmlLabCode.genruntimeconfig.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P8-4352501039-AlfianitaPutri\UmlLab\UmlLabCode\obj\Debug\net10.0\ref\UmlLabCode.dll

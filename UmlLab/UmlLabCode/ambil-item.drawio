@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="4q1BQxGgYgWZNw95DmDv" name="Page-1">
+        <mxGraphModel dx="1403" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=0;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" value="Player" vertex="1">
+                    <mxGeometry height="340" width="100" x="90" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=0;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" value="ItemPickup" vertex="1">
+                    <mxGeometry height="340" width="100" x="290" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=0;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" value="Inventory" vertex="1">
+                    <mxGeometry height="340" width="100" x="490" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=0;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" value="UISystem" vertex="1">
+                    <mxGeometry height="340" width="100" x="690" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-5" edge="1" parent="1" style="html=0;verticalAlign=bottom;endArrow=block;endFill=1;" value="1: Collect()">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="140" y="200" as="sourcePoint"/>
+                        <mxPoint x="340" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-6" edge="1" parent="1" style="html=0;verticalAlign=bottom;endArrow=block;endFill=1;" value="2: AddItem(potion)">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="340" y="260" as="sourcePoint"/>
+                        <mxPoint x="540" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-7" edge="1" parent="1" style="html=0;verticalAlign=bottom;endArrow=block;endFill=1;" value="3: RefreshDisplay()">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="540" y="320" as="sourcePoint"/>
+                        <mxPoint x="740" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="fPuDoBZUIYWoO46Qncak-8" edge="1" parent="1" style="html=0;verticalAlign=bottom;endArrow=block;endFill=1;" value="4: ShowNotification(&quot;Item didapat&quot;)">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="740" y="380" as="sourcePoint"/>
+                        <mxPoint x="140" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
